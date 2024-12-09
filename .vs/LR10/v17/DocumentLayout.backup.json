@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Optimization\\LR10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E4E98-A13B-4147-A6DF-C6EBED139F50}|LR10.vcxproj|D:\\Projects\\Optimization\\LR10\\OneDimInteraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F35E4E98-A13B-4147-A6DF-C6EBED139F50}|LR10.vcxproj|solutionrelative:OneDimInteraction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E4E98-A13B-4147-A6DF-C6EBED139F50}|LR10.vcxproj|D:\\Projects\\Optimization\\LR10\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F35E4E98-A13B-4147-A6DF-C6EBED139F50}|LR10.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E4E98-A13B-4147-A6DF-C6EBED139F50}|LR10.vcxproj|D:\\Projects\\Optimization\\LR10\\OneDimInteraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F35E4E98-A13B-4147-A6DF-C6EBED139F50}|LR10.vcxproj|solutionrelative:OneDimInteraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OneDimInteraction.h",
+              "DocumentMoniker": "D:\\Projects\\Optimization\\LR10\\OneDimInteraction.h",
+              "RelativeDocumentMoniker": "OneDimInteraction.h",
+              "ToolTip": "D:\\Projects\\Optimization\\LR10\\OneDimInteraction.h",
+              "RelativeToolTip": "OneDimInteraction.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T23:42:11.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OneDimInteraction.cpp",
+              "DocumentMoniker": "D:\\Projects\\Optimization\\LR10\\OneDimInteraction.cpp",
+              "RelativeDocumentMoniker": "OneDimInteraction.cpp",
+              "ToolTip": "D:\\Projects\\Optimization\\LR10\\OneDimInteraction.cpp",
+              "RelativeToolTip": "OneDimInteraction.cpp",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAmwKoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T23:42:25.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Projects\\Optimization\\LR10\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\Projects\\Optimization\\LR10\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T23:34:23.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
